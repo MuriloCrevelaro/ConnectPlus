@@ -28,16 +28,16 @@ public partial class ConnectContext : DbContext
     {
         modelBuilder.Entity<Contato>(entity =>
         {
-            entity.HasKey(e => e.IdContatos).HasName("PK__Contatos__8564A94411A30BB7");
+            entity.HasKey(e => e.IdContatos).HasName("PK__Contatos__8564A944CA18B11A");
 
             entity.Property(e => e.IdContatos).HasDefaultValueSql("(newid())");
 
-            entity.HasOne(d => d.IdTipoContatosNavigation).WithMany(p => p.Contatos).HasConstraintName("FK__Contatos__IdTipo__628FA481");
+            entity.HasOne(d => d.IdTipoContatosNavigation).WithMany(p => p.Contatos).HasConstraintName("FK__Contatos__Id_Tip__60A75C0F");
         });
 
         modelBuilder.Entity<TipoContato>(entity =>
         {
-            entity.HasKey(e => e.IdTipoContatos).HasName("PK__TipoCont__77B378529F842316");
+            entity.HasKey(e => e.IdTipoContatos).HasName("PK__TipoCont__77B37852D727363D");
 
             entity.Property(e => e.IdTipoContatos).HasDefaultValueSql("(newid())");
         });

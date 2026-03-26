@@ -6,7 +6,6 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ConnectPlus.Models;
 
-[Index("Titulo", Name = "UQ__Contatos__7B406B5658FCC9A6", IsUnique = true)]
 public partial class Contato
 {
     [Key]
@@ -14,8 +13,16 @@ public partial class Contato
     public Guid IdContatos { get; set; }
 
     [StringLength(100)]
-    public string Titulo { get; set; } = null!;
+    public string Nome { get; set; } = null!;
 
+    [StringLength(244)]
+    public string FormaDeContato { get; set; } = null!;
+
+    [StringLength(100)]
+    [Unicode(false)]
+    public string Imagem { get; set; } = null!;
+
+    [Column("Id_TipoContatos")]
     public Guid? IdTipoContatos { get; set; }
 
     [ForeignKey("IdTipoContatos")]

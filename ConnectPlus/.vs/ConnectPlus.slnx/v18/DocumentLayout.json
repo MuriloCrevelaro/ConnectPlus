@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\43376666806\\Desktop\\3SS-Torloni\\ConnectPlus\\ConnectPlus\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62D3E8AD-3C3A-D06F-888B-A5FF4A5F4AF2}|ConnectPlus.csproj|c:\\users\\43376666806\\desktop\\3ss-torloni\\connectplus\\connectplus\\bdcontextconnect\\connectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62D3E8AD-3C3A-D06F-888B-A5FF4A5F4AF2}|ConnectPlus.csproj|solutionrelative:bdcontextconnect\\connectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62D3E8AD-3C3A-D06F-888B-A5FF4A5F4AF2}|ConnectPlus.csproj|c:\\users\\43376666806\\desktop\\3ss-torloni\\connectplus\\connectplus\\controller\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D3E8AD-3C3A-D06F-888B-A5FF4A5F4AF2}|ConnectPlus.csproj|solutionrelative:controller\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62D3E8AD-3C3A-D06F-888B-A5FF4A5F4AF2}|ConnectPlus.csproj|c:\\users\\43376666806\\desktop\\3ss-torloni\\connectplus\\connectplus\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{62D3E8AD-3C3A-D06F-888B-A5FF4A5F4AF2}|ConnectPlus.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62D3E8AD-3C3A-D06F-888B-A5FF4A5F4AF2}|ConnectPlus.csproj|c:\\users\\43376666806\\desktop\\3ss-torloni\\connectplus\\connectplus\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{62D3E8AD-3C3A-D06F-888B-A5FF4A5F4AF2}|ConnectPlus.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{62D3E8AD-3C3A-D06F-888B-A5FF4A5F4AF2}|ConnectPlus.csproj|c:\\users\\43376666806\\desktop\\3ss-torloni\\connectplus\\connectplus\\repositories\\contatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D3E8AD-3C3A-D06F-888B-A5FF4A5F4AF2}|ConnectPlus.csproj|solutionrelative:repositories\\contatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ConnectContext.cs",
-              "DocumentMoniker": "C:\\Users\\43376666806\\Desktop\\3SS-Torloni\\ConnectPlus\\ConnectPlus\\BdContextConnect\\ConnectContext.cs",
-              "RelativeDocumentMoniker": "BdContextConnect\\ConnectContext.cs",
-              "ToolTip": "C:\\Users\\43376666806\\Desktop\\3SS-Torloni\\ConnectPlus\\ConnectPlus\\BdContextConnect\\ConnectContext.cs",
-              "RelativeToolTip": "BdContextConnect\\ConnectContext.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T19:50:13.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\43376666806\\Desktop\\3SS-Torloni\\ConnectPlus\\ConnectPlus\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\43376666806\\Desktop\\3SS-Torloni\\ConnectPlus\\ConnectPlus\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-24T19:23:37.78Z",
+              "Title": "ContatoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\43376666806\\Desktop\\3SS-Torloni\\ConnectPlus\\ConnectPlus\\Repositories\\ContatoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ContatoRepository.cs",
+              "ToolTip": "C:\\Users\\43376666806\\Desktop\\3SS-Torloni\\ConnectPlus\\ConnectPlus\\Repositories\\ContatoRepository.cs",
+              "RelativeToolTip": "Repositories\\ContatoRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAWwCcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T17:00:40.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\43376666806\\Desktop\\3SS-Torloni\\ConnectPlus\\ConnectPlus\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\43376666806\\Desktop\\3SS-Torloni\\ConnectPlus\\ConnectPlus\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-24T19:23:32.464Z",
+              "DocumentIndex": 0,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\Users\\43376666806\\Desktop\\3SS-Torloni\\ConnectPlus\\ConnectPlus\\Controller\\ContatoController.cs",
+              "RelativeDocumentMoniker": "Controller\\ContatoController.cs",
+              "ToolTip": "C:\\Users\\43376666806\\Desktop\\3SS-Torloni\\ConnectPlus\\ConnectPlus\\Controller\\ContatoController.cs",
+              "RelativeToolTip": "Controller\\ContatoController.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAowJcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T16:59:52.686Z",
               "EditorCaption": ""
             }
           ]
